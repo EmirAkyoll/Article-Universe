@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "firstName": "Emir",
+      "lastName": "Akyol",
+      "userName": "emir",
+      "password": "emir123",
+      "favorites": [
+        {
+          "ID": "nyt://article/04ff41d2-c9bc-520f-887e-7f59d895a678",
+          "FolderName": "/ Men's Health",
+          "Header": "The Mystery of Syndrome X",
+          "Snippet": "Sandeep Jauhar article on angina suffered by people whose coronary arteries are not impaired by atherosclerotic plaque, so-called syndrome X; suggests that syndrome X, which is frustrating for patients and doctors alike, is not single disorder but...",
+          "Author": "— By Sandeep Jauhar, M.d",
+          "URL": "https://www.nytimes.com/2002/09/23/health/heart-disease-the-mystery-of-syndrome-x.html"
+        },
+        {
+          "ID": "nyt://article/05fc7bc5-84eb-55b4-83af-6b68264ed25f",
+          "FolderName": "/ Connecticut",
+          "Header": "The Name Promises, and the Food Delivers",
+          "Snippet": "What a difference a name change makes. Actually, the former Mecca, now called La Paella, changed more than its name. ",
+          "Author": "— By Patricia Brooks",
+          "URL": "https://www.nytimes.com/2006/06/18/travel/18ctdine.html"
+        },
+        {
+          "ID": "nyt://article/0bac0245-7587-5b08-a16a-0cb7d1f18eb3",
+          "FolderName": "/ Adventure Sports",
+          "Header": "The Thrill of Risk, and Other Reasons Why",
+          "Snippet": "Bruce Weber article on why he and others enjoy risky sports; photos (M)",
+          "Author": "— By Bruce Weber",
+          "URL": "https://www.nytimes.com/1998/03/11/sports/the-thrill-of-risk-and-other-reasons-why.html"
+        }
+      ],
+      "read": [
+        {
+          "ID": "nyt://article/05f1a296-f394-5013-8e66-317f05d57f56",
+          "FolderName": "/ Men's Health",
+          "Header": "Only His Surgeon Knows For Sure",
+          "Snippet": "Joan Kron comment on plastic surgery among the rich, famous and political; men are now 14 percent of cosmetic surgery patient population, and up to 20 percent on East and West Coast; photo (S)",
+          "Author": "— By Joan Kron",
+          "URL": "https://www.nytimes.com/1999/02/17/health/only-his-surgeon-knows-for-sure.html"
+        },
+        {
+          "ID": "nyt://article/0bac0245-7587-5b08-a16a-0cb7d1f18eb3",
+          "FolderName": "/ Adventure Sports",
+          "Header": "The Thrill of Risk, and Other Reasons Why",
+          "Snippet": "Bruce Weber article on why he and others enjoy risky sports; photos (M)",
+          "Author": "— By Bruce Weber",
+          "URL": "https://www.nytimes.com/1998/03/11/sports/the-thrill-of-risk-and-other-reasons-why.html"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
